@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<br>
-
 # 💫 About Me:
 🔭  I'm currently working on data.<br>🌱  I'm currently learning advanced NLP, MLOps and Big Data Engineering.<br>💬  Ask me about ML, DL, NLP, data viz.
 
